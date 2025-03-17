@@ -1,5 +1,5 @@
 
-## ** System Architecture for AI-Powered Task Manager with Microservices**
+## **System Architecture for AI-Powered Task Manager with Microservices**
 
 ### **Project Overview**
 The task manager application is designed to be lightweight, intuitive, and capable of integrating machine learning models to enhance task management functionality. The application will be developed using a **microservice architecture**, where each service is isolated, and the backend is built using **Docker** containers. The task manager will also integrate AI agents to handle specific tasks like task categorization, reminders, or intelligent suggestions.
